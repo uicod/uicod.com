@@ -1,5 +1,5 @@
 # uicod.com
-This website was built with HTML5, CSS3 and Parcel.
+This website was built with Pug, PostCSS and Parcel.
 
 ## Usage
 #### Clone the repository
